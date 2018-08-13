@@ -4,7 +4,8 @@
   "description": "A bot for sending cards",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "index.js"
   },
   "author": "",
   "license": "ISC"
