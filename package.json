@@ -1,0 +1,11 @@
+{
+  "name": "db-bot",
+  "version": "1.0.0",
+  "description": "A bot for sending cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
